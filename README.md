@@ -1,4 +1,4 @@
-# Bem-vindo, fique a vontade 💜
+# Welcome, feel free 💜
 
 ## Luan Portugal
 
@@ -8,16 +8,21 @@
 [![Facebook Badge](	https://img.shields.io/badge/facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/luan.portugal.583/)
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/portugal_luansilva/?hl=pt-br)
 
-###### Nunca deixe de aprender constantemente  💻 
+###### Never stop learning constantly 💻 
 
-### Sobre Mim 💭
-##### Desde criança apaixonado por tecnlogia e muito curioso sobre o universo tecnológico, na adolescência pela programação ainda mais me interessei, comecei a estudar e logo me aprofundei, quando vi já estava definido qual faculdade (Análise e desenvolvimento de Sistemas) fazer e carreira (Cientista de Dados) á seguir📚
+Hi there 👋
+I'm DBA and Developer. Currently venturing and developing things for the financial market in Brazil.
+ . 🔭 I’m working at BRA
+ . 🌱 I’m currently learning all about Machine Learning
+ . 💬 Ask me about Data, BI, BA, Data Science and Machine Learning!
 
-### Um mundo melhor, moderno e de livre acesso para todos é o quero, através da tecnologia tentando mudar o mundo automatizando tudo que é possível, nunca é cedo para começar nem tarde para aprender ⌛
 
-
-### 🚀 Minhas tecnologias e ferramentas ⚙
-#### Navegue pelos repositorios e conheça mais  👀
+### 🚀 My technologies and tools ⚙
+ . Python(Pandas, Numpy, Matplot, API, jupyter)
+ . Power Bi
+ . MySQL
+ 
+#### Browse the repositories and learn more  👀
   
   
   ### Github Stats
