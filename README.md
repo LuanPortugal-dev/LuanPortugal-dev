@@ -12,15 +12,15 @@
 
 Hi there 👋
 I'm DBA and Developer. Currently venturing and developing things for the financial market in Brazil.
- . 🔭 I’m working at BRA
- . 🌱 I’m currently learning all about Machine Learning
- . 💬 Ask me about Data, BI, BA, Data Science and Machine Learning!
+ . 🔭 I’m working at BRA<br>
+ . 🌱 I’m currently learning all about Machine Learning<br>
+ . 💬 Ask me about Data, BI, BA, Data Science and Machine Learning!<br>
 
 
 ### 🚀 My technologies and tools ⚙
- . Python(Pandas, Numpy, Matplot, API, jupyter)
- . Power Bi
- . MySQL
+ . Python(Pandas, Numpy, Matplot, API, jupyter)<br>
+ . Power Bi<br>
+ . MySQL<br>
  
 #### Browse the repositories and learn more  👀
   
