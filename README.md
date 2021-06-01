@@ -10,8 +10,8 @@
 
 ###### Never stop learning constantly 💻 
 
-Hi there 👋
-I'm DBA and Developer. Currently venturing and developing things for the financial market in Brazil.
+Hi there 👋<br>
+I'm DBA and Developer. Currently venturing and developing things for the financial market in Brazil.<br>
  . 🔭 I’m working at BRA<br>
  . 🌱 I’m currently learning all about Machine Learning<br>
  . 💬 Ask me about Data, BI, BA, Data Science and Machine Learning!<br>
