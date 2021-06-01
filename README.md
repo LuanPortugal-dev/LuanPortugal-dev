@@ -15,13 +15,14 @@ I'm DBA and Developer. Currently venturing and developing things for the financi
 #### Browse the repositories and learn more  👀
   
   
-  ### Github Stats
+### Github Stats
+
 <div>
- [![Luan Portugal github stats](https://github-readme-stats.vercel.app/api?username=LuanPortugal-dev&theme=dracula)](https://github.com/LuanPortugal-dev)
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanPortugal-dev&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-
-
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanPortugal-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanPortugal-dev&layout=compact&langs_count=16&theme=dracula"/>
+<div>
+ 
 ### 🚀 My technologies and tools ⚙
 
 <div style="display: inline_block"><br>
@@ -30,8 +31,6 @@ I'm DBA and Developer. Currently venturing and developing things for the financi
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
- 
-  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
 
 ##
