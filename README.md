@@ -18,9 +18,9 @@ I'm DBA and Developer. Currently venturing and developing things for the financi
 
 
 ### 🚀 My technologies and tools ⚙
- . Python(Pandas, Numpy, Matplot, API, jupyter)<br>
- . Power Bi<br>
- . MySQL<br>
+
+
+<div>Ícones feitos por <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a></div>
  
 #### Browse the repositories and learn more  👀
   
