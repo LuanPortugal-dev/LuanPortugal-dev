@@ -3,7 +3,6 @@
 ## Luan Portugal
 
 
-
 ###### Never stop learning constantly 💻 
 
 Hi there 👋<br>
@@ -17,9 +16,10 @@ I'm DBA and Developer. Currently venturing and developing things for the financi
   
   
   ### Github Stats
-[![Luan Portugal github stats](https://github-readme-stats.vercel.app/api?username=LuanPortugal-dev&theme=dracula)](https://github.com/LuanPortugal-dev)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanPortugal-dev&layout=compact&langs_count=16&theme=dracula"/>
-
+<div>
+ [![Luan Portugal github stats](https://github-readme-stats.vercel.app/api?username=LuanPortugal-dev&theme=dracula)](https://github.com/LuanPortugal-dev)
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanPortugal-dev&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
 
 ### 🚀 My technologies and tools ⚙
@@ -33,10 +33,6 @@ I'm DBA and Developer. Currently venturing and developing things for the financi
  
   <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
-
-
- 
-
 
 ##
  
