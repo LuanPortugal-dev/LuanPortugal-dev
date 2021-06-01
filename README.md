@@ -35,5 +35,6 @@ I'm DBA and Developer. Currently venturing and developing things for the financi
   
   ### Github Stats
 [![Luan Portugal github stats](https://github-readme-stats.vercel.app/api?username=LuanPortugal-dev&theme=dracula)](https://github.com/LuanPortugal-dev)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanPortugal-dev&layout=compact&langs_count=16&theme=dracula"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanPortugal-dev&layout=compact)](https://github.com/LuanPortugal-dev)
 </div>
