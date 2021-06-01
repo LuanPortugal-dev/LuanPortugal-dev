@@ -3,9 +3,9 @@
 ## Luan Portugal
 
 
-###### Never stop learning constantly 💻 
+#### Never stop learning constantly 💻 
 
-Hi there 👋<br>
+Hi there 👋<br><br>
 I'm DBA and Developer. Currently venturing and developing things for the financial market in Brazil.<br>
  . 🔭 I’m working at BRA<br>
  . 🌱 I’m currently learning all about Machine Learning<br>
