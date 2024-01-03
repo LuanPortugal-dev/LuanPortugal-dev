@@ -6,10 +6,10 @@
 #### Never stop learning constantly 💻 
 
 Hi there 👋<br><br>
-I'm DBA and Developer. Currently venturing and developing things for the financial market in Brazil.<br>
- . 🔭 I’m working at BRA<br>
- . 🌱 I’m currently learning all about Machine Learning<br>
- . 💬 Ask me about Data, BI, BA, Data Science and Machine Learning!<br>
+I'm a Developer deeply immersed in the dynamic world of the Brazilian financial market. Here's a glimpse into my professional journey:.<br>
+ . 🔭 Currently making strides at QG Security, with a focus on cutting-edge technologies.<br>
+ . 💬 I'm happy to discuss anything related to software development!<br>
+ . 👨‍💻 Skilled in a variety of technologies including React Js, JavaScript, Go, Python, Flask, TailwindCSS, Mysql, as well as platforms such as Amazon AWS and Azure.<br>
 
  
 #### Browse the repositories and learn more  👀
@@ -18,7 +18,7 @@ I'm DBA and Developer. Currently venturing and developing things for the financi
 ### Github Stats
 
 <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/LuanPortugal-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanPortugal-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanPortugal-dev&layout=compact&langs_count=16&theme=dracula"/>
 <div>
@@ -27,10 +27,14 @@ I'm DBA and Developer. Currently venturing and developing things for the financi
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+ <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+ <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
 </div>
 
 ##
